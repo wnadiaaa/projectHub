@@ -1,0 +1,2 @@
+'selamat datang'
+'belajar git versi 1'
